@@ -30,8 +30,7 @@ To gain access to the private donor repository (news, forum, consortial settings
      ```
 5. After verification, the administrator will create a personal profile for you and grant access to the private donor repository.
 
-[**REGISTER AS A DONOR**](https://github.com/Imperium-Silentii/visrealitatis-donors/issues/1#issue-3877282668)
-  
+[**REGISTER AS DONOR**](https://github.com/Imperium-Silentii/visrealitatis-donors/issues/2)
 
 ---
 
