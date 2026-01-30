@@ -2,8 +2,8 @@
 
 | | |
 |---|----|
-| Latina | [**Donor Registration**](https://github.com/Imperium-Silentii/visrealitatis-donors/blob/main/README.EN) |
-| English | Donor Registration |
+| Latina | Registratio Donatorum |
+| English | [**Donor Registration**](https://github.com/Imperium-Silentii/visrealitatis-donors/blob/main/README.EN)|
 | العربية | تسجيل المتبرعين |
 | Español | Registro de Donantes |
 | 中文 | 捐赠者注册 |
